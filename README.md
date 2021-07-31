@@ -11,3 +11,5 @@ STSTRONG VIRUSES WHICH ARE NOT CAUGHT BY DEVICE SECURITY WHILE INSTALLING🔥
 ┣Creator takes no responsibility about any misdeed done with this tool
 
 ┣Usable for Termux Android
+
+┣The python script as well as the viruses are created by Tool Owner.Renaming completely prohibited.
