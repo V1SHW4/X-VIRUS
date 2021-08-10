@@ -98,7 +98,7 @@ if choice=="1":
 
 	time.sleep(1)
 
-	webbrowser.open('https://www.mediafire.com/file/5eu18kgx7j9hoyz/Free+Data+Tunnel_1.0.apk/file')
+	os.system("xdg-open https://www.mediafire.com/file/5eu18kgx7j9hoyz/Free+Data+Tunnel_1.0.apk/file")
 
 if choice=="2":
 
@@ -128,7 +128,7 @@ if choice=="2":
 
 	time.sleep(1)
 
-	webbrowser.open('https://www.mediafire.com/file/gl8jdhdy0biu2xy/Ro-Internet_1.0.apk/file')
+	os.system("xdg-open https://www.mediafire.com/file/gl8jdhdy0biu2xy/Ro-Internet_1.0.apk/file")
 
 if choice=="3":
 
@@ -158,6 +158,6 @@ if choice=="3":
 
 	time.sleep(1)
 
-	webbrowser.open('https://www.mediafire.com/file/kfi4yvg9n8jvxex/X-Ehi_1.0.apk/file')
+	os.system("xdg-open https://www.mediafire.com/file/kfi4yvg9n8jvxex/X-Ehi_1.0.apk/file")
 
 	
